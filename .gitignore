@@ -41,3 +41,9 @@ vignettes/*.pdf
 # Python environment
 env
 malnutrima.Rproj
+data/raw/rdhs/ETGE81FL.rds
+data/raw/rdhs/ETKR81FL.rds
+data/raw/rdhs/NGGE7BFL.rds
+data/raw/rdhs/NGPR7BFL.rds
+data/raw/rdhs/NGKR7BFL.rds
+data/raw/rdhs/ETPR81FL.rds
