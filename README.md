@@ -2,13 +2,13 @@
 
 *unfinished work*
 
-*Abstract*
+**Abstract**
 
 It has become popular to estimate prevalence maps of health statistics on fine-grained grids of countries, most often based on geolocated data from the Demographic and Health Surveys (DHS). In theory, this allows to obtain estimates down to Admin 2 levels, on which health policy decisions are generally drafted. Data sparsity generally does not allow for such disaggregated estimates, as DHS surveys are often only powered / representative on the Admin 1 level. In practice, those models rest on the quality of the covariates. Population maps have been shown to differ strongly, and inferences drawn from different maps may therefore yield diverging inferences. In this work I assess the sensitivity of such estimates on different available population maps.  
 
 
 
-### References
+**References**
 
 P. J. Diggle and E. Giorgi, ‘Model-Based Geostatistics for Prevalence Mapping in Low-Resource Settings’, Journal of the American Statistical Association, vol. 111, no. 515, pp. 1096–1120, Jul. 2016, doi: 10.1080/01621459.2015.1123158.
 
